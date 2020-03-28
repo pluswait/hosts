@@ -1,0 +1,2 @@
+# hosts
+Global dns setting
